@@ -1,0 +1,3308 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4917125057400169193
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4917125057400169192}
+  m_Layer: 0
+  m_Name: Coffee Beans
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4917125057400169192
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4917125057400169193}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0.23}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7407289806112919022}
+  - {fileID: 409712387166448152}
+  - {fileID: 409712386284329522}
+  - {fileID: 409712387534160014}
+  - {fileID: 409712386721631654}
+  - {fileID: 409712386773054515}
+  - {fileID: 409712386579279262}
+  - {fileID: 409712387125548063}
+  - {fileID: 409712386327016304}
+  - {fileID: 409712387757298036}
+  - {fileID: 409712386490661344}
+  - {fileID: 409712386906339040}
+  - {fileID: 409712387571747854}
+  - {fileID: 409712387735180584}
+  - {fileID: 409712386390947883}
+  - {fileID: 409712387203057379}
+  - {fileID: 409712386264006451}
+  - {fileID: 409712386592982598}
+  - {fileID: 409712385813006368}
+  - {fileID: 409712387218227477}
+  - {fileID: 409712386828197574}
+  - {fileID: 409712386729286841}
+  - {fileID: 409712386262025279}
+  - {fileID: 409712386035281006}
+  - {fileID: 409712386169274130}
+  - {fileID: 409712386513536889}
+  - {fileID: 409712386524049382}
+  - {fileID: 409712386421332318}
+  - {fileID: 409712386643972212}
+  - {fileID: 409712387260118872}
+  - {fileID: 409712387949483466}
+  - {fileID: 409712386193792976}
+  - {fileID: 409712387465895607}
+  - {fileID: 409712385814027977}
+  - {fileID: 409712386423436479}
+  - {fileID: 409712386131392559}
+  - {fileID: 409712386789538668}
+  - {fileID: 409712386700329615}
+  - {fileID: 409712386180024676}
+  - {fileID: 409712387405879310}
+  - {fileID: 409712386923603556}
+  - {fileID: 409712387622731115}
+  - {fileID: 409712386809388750}
+  - {fileID: 409712387936346666}
+  - {fileID: 409712385895283229}
+  - {fileID: 409712387613645809}
+  - {fileID: 409712387188945604}
+  - {fileID: 409712387026870800}
+  - {fileID: 409712387931320090}
+  - {fileID: 409712387008566713}
+  - {fileID: 409712387626809682}
+  - {fileID: 409712387940596694}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &2835384146732163282
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -39.40839
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &7407289806112919022 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 2835384146732163282}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057227172421
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -30.61839
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386513536889 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057227172421}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057237664474
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -29.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386524049382 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057237664474}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057272042716
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -35.773
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386490661344 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057272042716}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057293549730
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -37.231388
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386579279262 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057293549730}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057307143034
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -33.54861
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386592982598 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057307143034}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057373656343
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -34.29861
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386390947883 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057373656343}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057471165538
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -29.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386421332318 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057471165538}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057473255811
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -26.982998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386423436479 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057473255811}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057503811152
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -26.198391
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386789538668 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057503811152}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057523545074
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -24.021389
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386809388750 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057523545074}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057553783055
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -37.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386773054515 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057553783055}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057609593850
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -32.12161
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386828197574 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057609593850}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057693154632
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -29.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386643972212 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057693154632}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057703829658
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -37.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386721631654 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057703829658}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057711878533
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -32.12161
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386729286841 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057711878533}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057750036403
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -26.198391
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386700329615 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057750036403}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057889747282
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -31.371609
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386035281006 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057889747282}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057936057628
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -32.829998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712385813006368 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057936057628}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125057936946165
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -27.732998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712385814027977 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125057936946165}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058018187041
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -23.313
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712385895283229 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058018187041}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058049927427
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -31.371609
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386262025279 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058049927427}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058051363343
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -33.54861
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386264006451 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058051363343}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058114903628
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -36.523
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386327016304 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058114903628}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058138945294
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -38.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386284329522 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058138945294}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058187842835
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -26.982998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386131392559 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058187842835}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058235966552
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -25.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386180024676 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058235966552}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058250257132
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -28.441391
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386193792976 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058250257132}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058292830766
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -30.61839
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386169274130 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058292830766}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058327803597
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -23.313
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387613645809 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058327803597}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058353144114
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -35.007
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387571747854 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058353144114}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058403586135
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -24.740002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387622731115 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058403586135}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058408191086
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -21.055
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387626809682 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058408191086}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058448487307
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -27.732998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387465895607 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058448487307}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058516233650
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -38.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387534160014 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058516233650}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058645459494
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -21.842999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387931320090 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058645459494}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058649968406
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -24.021393
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387936346666 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058649968406}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058654344938
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 51
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -21.055002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387940596694 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058654344938}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058663250166
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -28.441387
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387949483466 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058663250166}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058717906964
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -35.007
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387735180584 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058717906964}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058807004232
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -36.523
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387757298036 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058807004232}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058881998636
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -22.563
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387026870800 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058881998636}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058913581347
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -37.231388
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387125548063 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058913581347}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125058980055896
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -24.740002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386923603556 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125058980055896}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125059029769180
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -35.773
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712386906339040 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125059029769180}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125059064903813
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 49
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -21.843
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387008566713 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125059064903813}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125059193255218
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -25.490002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387405879310 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125059193255218}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125059245268984
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.19873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -22.563
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387188945604 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125059245268984}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125059259526111
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -34.29861
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387203057379 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125059259526111}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125059290007332
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -39.40839
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387166448152 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125059290007332}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125059315915364
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -29.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387260118872 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125059315915364}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917125059341806633
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4917125057400169192}
+    m_Modifications:
+    - target: {fileID: 754410147925163335, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_Name
+      value: Coffee Beans Pack (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06732082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -32.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+--- !u!4 &409712387218227477 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4725036934140079420, guid: 7d7349fcfb84cf745ac0dc5498d14917, type: 3}
+  m_PrefabInstance: {fileID: 4917125059341806633}
+  m_PrefabAsset: {fileID: 0}
