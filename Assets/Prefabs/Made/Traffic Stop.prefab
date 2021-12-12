@@ -1,0 +1,473 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2593406799601905561
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2593406799601905560}
+  m_Layer: 0
+  m_Name: Traffic Stop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2593406799601905560
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2593406799601905561}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7504984738475717596}
+  - {fileID: 7504984739330951898}
+  - {fileID: 7504984738537080022}
+  - {fileID: 7504984738417749591}
+  - {fileID: 1309156537493939706}
+  - {fileID: 7504984739422104600}
+  - {fileID: 7504984738609766109}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &2593406797865739131
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2593406799601905560}
+    m_Modifications:
+    - target: {fileID: 3598940831011389041, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_Name
+      value: Trafic Stop Cylinder (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -372.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 51.494568
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 982.9115
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+--- !u!4 &7504984739422104600 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+  m_PrefabInstance: {fileID: 2593406797865739131}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2593406797946095033
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2593406799601905560}
+    m_Modifications:
+    - target: {fileID: 3598940831011389041, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_Name
+      value: Trafic Stop Cylinder (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -383.75546
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 51.494568
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 982.9115
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+--- !u!4 &7504984739330951898 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+  m_PrefabInstance: {fileID: 2593406797946095033}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2593406798668337598
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2593406799601905560}
+    m_Modifications:
+    - target: {fileID: 3598940831011389041, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_Name
+      value: Trafic Stop Cylinder (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -367.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 51.494568
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 982.9115
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+--- !u!4 &7504984738609766109 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+  m_PrefabInstance: {fileID: 2593406798668337598}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2593406798725548981
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2593406799601905560}
+    m_Modifications:
+    - target: {fileID: 3598940831011389041, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_Name
+      value: Trafic Stop Cylinder (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -389.15546
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 51.494568
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 982.9115
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+--- !u!4 &7504984738537080022 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+  m_PrefabInstance: {fileID: 2593406798725548981}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2593406798802664639
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2593406799601905560}
+    m_Modifications:
+    - target: {fileID: 3598940831011389041, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_Name
+      value: Trafic Stop Cylinder (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -362.69547
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 51.494568
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 982.9115
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+--- !u!4 &7504984738475717596 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+  m_PrefabInstance: {fileID: 2593406798802664639}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2593406798912004404
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2593406799601905560}
+    m_Modifications:
+    - target: {fileID: 3598940831011389041, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_Name
+      value: Trafic Stop Cylinder (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -394.39545
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 51.494568
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 982.9115
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+--- !u!4 &7504984738417749591 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+  m_PrefabInstance: {fileID: 2593406798912004404}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6481137854294616729
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2593406799601905560}
+    m_Modifications:
+    - target: {fileID: 3598940831011389041, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_Name
+      value: Trafic Stop Cylinder
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -378.21524
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 51.494568
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 982.9115
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+--- !u!4 &1309156537493939706 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5465872848682061667, guid: c6b5b64b798b3e0459b4ab0c1ae24008, type: 3}
+  m_PrefabInstance: {fileID: 6481137854294616729}
+  m_PrefabAsset: {fileID: 0}
