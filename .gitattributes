@@ -1,3 +1,4 @@
 de5de9e9f6c1bca2813d2acb0632cefb filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
 Ch30_nonPBR@Crouched[[:space:]]Walking.fbx filter=lfs diff=lfs merge=lfs -text
+Ch30_nonPBR@Falling[[:space:]]Back[[:space:]]Death.fbx filter=lfs diff=lfs merge=lfs -text
