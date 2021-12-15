@@ -11,7 +11,8 @@ When one of the squads receives the weapons, they start chasing the others.<br /
 The human player receives text messages on the screen about it.<br />
 When one of the players is injured or killed and also when the squad wins or loses, an appropriate message will appear.<br />
 
-
+<img src = "Game Pictures/gunPickUpAndPartner.png">
+<img src = "Game Pictures/gameOn.png">
 
 ## Game created with:
 * Unity version: 2020.3.13f1 
