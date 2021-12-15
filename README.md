@@ -3,7 +3,7 @@
 Final project in a game development course. <br />
 A shooting game between two groups that takes place in an outdoor area that has a neighborhood, coffe shop, park and hiding places, surrounded by mountains.<br />
 
-![](from_above.PNG)
+![](SootingGame/Game Pictures/from_above.PNG)
 
 ## Game description:
 The game starts with the player, and npcs, trying to find a weapon which appears in random places each time.<br />
