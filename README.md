@@ -14,6 +14,6 @@ When one of the players is injured or killed and also when the squad wins or los
 <img src = "Game Pictures/gunPickUpAndPartner.png">
 <img src = "Game Pictures/gameOn.png">
 
-## Game created with:
+## Created with:
 * Unity 3D: C#.
 * Unity version: 2020.3.13f1 
